@@ -44,6 +44,24 @@ git clone https://github.com/your-username/hemolytik2.git
 ```
 Alternatively, you can download the latest version of the dataset as a ZIP file directly from the "Releases" page. 🚀
 
+## 📦 Extracting `all_structures.tar.zst`
+
+The archive is compressed using **Zstandard (zstd)** for maximum compression efficiency.
+
+### 🔹 Step 1: Decompress the `.zst` file
+Bash
+```
+zstd -d all_structures.tar.zst
+```
+This will generate: all_structures.tar
+
+### 🔹Step 2: Extract the .tar archive
+Bash
+```
+tar -xvf all_structures.tar
+```
+This will extract the original folder: all structures/
+
 ---
 ## 🌐 Web Server
 
@@ -137,6 +155,8 @@ If you use **Hemolytik 2.0** in your research, please cite:
 │   ├── Antibacterial
 │   ├── Antifungal
 │   └── ...
+├── structure/
+│   ├── all_structures.tar.zst
 └── README.md
 ```
 
