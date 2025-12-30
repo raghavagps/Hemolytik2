@@ -172,7 +172,7 @@ Website: http://webs.iiitd.edu.in/raghava/
 The database was developed and is maintained by a dedicated team at the Indraprastha Institute of Information Technology, Delhi, India.
 
 ## 📄 License
-This database is made available under the MIT License. You are free to use, share, and adapt the data for any purpose, including commercial use, as long as you provide appropriate attribution.
+This database is made available under the MIT License. You are free to use, share, and adapt the data for any purpose, excluding commercial use, as long as you provide appropriate attribution.
 
 ## 🙏 Acknowledgments
 The development of Hemolytik 2.0 was supported by funding from the Department of Biotechnology (DBT), Government of India. We thank all the researchers whose work has contributed to the data compiled in this resource. 🎉
