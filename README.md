@@ -2,6 +2,7 @@
 
 Welcome to the official data repository for **Hemolytik 2.0**, a comprehensive and manually curated database of experimentally validated hemolytic and non-hemolytic peptides. This resource is designed to support researchers in the rational design and development of safer, more effective therapeutic peptides. 👩‍🔬👨‍🔬
 
+** [Zenodo Link https://zenodo.org/records/19699377](https://zenodo.org/records/19699377) 
 **🔬 About the Database**
 
 Hemolytik 2.0 is an updated and significantly expanded version of the original Hemolytik database. Peptides are promising therapeutic agents, but their clinical use can be limited by hemotoxicity—the unintended destruction of red blood cells (RBCs). This database provides a centralized platform to explore the complex relationship between a peptide's sequence, structure, chemical modifications, and its hemolytic activity. The data have been meticulously collected from over 4,533 peer-reviewed publications and established peptide repositories, including APD3, CAMP-R4, UniProt, and DRAMP4.0.
