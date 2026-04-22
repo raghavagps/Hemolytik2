@@ -130,8 +130,8 @@ You can download it directly from this repository:
 If you use **Hemolytik 2.0** in your research, please cite:
 
  
-> **Singh, A., Raj SA, K., Rathore, A. S., & Raghava, G. P. S. (2025). Hemolytik2: An Updated Database of Hemolytic Peptides and Proteins.**  
-> <a href="https://pubmed.ncbi.nlm.nih.gov/41525503/">Chem Res Toxicol. doi: 10.1021/acs.chemrestox.5c00322.</a>
+> **Singh, A., Raj SA, K., Rathore, A. S., & Raghava, G. P. S. (2026). Hemolytik2: An Updated Database of Hemolytic Peptides and Proteins.**  
+ <a href="https://pubmed.ncbi.nlm.nih.gov/41525503/">Chem Res Toxicol. doi: 10.1021/acs.chemrestox.5c00322.</a>
 
 
 ## ⚙️ Repository Structure
